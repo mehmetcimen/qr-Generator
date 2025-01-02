@@ -25,7 +25,7 @@ QR Kod Oluşturucu, web sitesi URL'lerini kolayca QR kodlarına dönüştüren b
 ### ⚙️ Kurulum
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/yourusername/qr-generator.git
+git clone https://github.com/mehmetcimen/qr-generator.git
 ```
 
 2. Gerekli kütüphaneleri yükleyin:
@@ -77,7 +77,7 @@ QR Code Generator is a simple and user-friendly desktop application that convert
 ### ⚙️ Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/qr-generator.git
+git clone https://github.com/mehmetcimen/qr-generator.git
 ```
 
 2. Install required packages:
