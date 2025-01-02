@@ -2,7 +2,7 @@
 
 [English](#english) | [Türkçe](#türkçe)
 
-![QR Code Generator](screenshots/app.png)
+![QR Code Generator](preview.jpg)
 
 ## Türkçe
 
