@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Arka plan daire -->
+  <circle cx="100" cy="100" r="90" fill="#4CAF50"/>
+  
+  <!-- MC Yazısı -->
+  <path d="M60 70 L60 130 M60 70 C75 90 85 90 100 70 C115 90 125 90 140 70 L140 130" 
+        fill="none" 
+        stroke="white" 
+        stroke-width="12" 
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+  
+  <!-- Dekoratif halka -->
+  <circle cx="100" cy="100" r="90" 
+          fill="none" 
+          stroke="#45a049" 
+          stroke-width="4"/>
+</svg>

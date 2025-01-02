@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Arka plan kare -->
+  <rect x="0" y="0" width="64" height="64" rx="12" fill="#4CAF50"/>
+  
+  <!-- MC Yazısı (daha basit versiyon) -->
+  <path d="M20 24 L20 44 M20 24 C25 32 30 32 32 24 C34 32 39 32 44 24 L44 44" 
+        fill="none" 
+        stroke="white" 
+        stroke-width="6" 
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+        
+  <!-- Hafif gölge efekti -->
+  <rect x="0" y="0" width="64" height="64" rx="12" 
+        fill="black" 
+        opacity="0.1"/>
+</svg>
